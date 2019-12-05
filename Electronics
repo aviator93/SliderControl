@@ -1,0 +1,25 @@
+Following Electronics are needed for this project:
+
+- Arduino Nano Every
+  10 USD
+  It has a larger flash memory and more digital Outputs compared to the typical Arduino boards, which are required for the sketch.
+  The Every can accept up to 21 V Input, So no external step down converter is required, if using a 12V Power Supply
+
+- 3 x A4988 Stepper Motor Drivers
+  5 USD
+  Of course every other Stepper Motor Driver will work
+  
+- 1.5 inch OLED
+  15 USD
+  Use one with HW SPI. SW SPI and I2C are slow on the every.
+
+- Rotary Encoder with Push Button
+  5 USD
+  
+- 12V Fan
+  5 USD
+  
+- Some small Parts like capacitors, a switch, a 10k resistor and a perfboard
+  5 USD
+  
+  
